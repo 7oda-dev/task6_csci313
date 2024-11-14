@@ -1,0 +1,7 @@
+My friend Abderhman Rahal and I collaborated on task 6.
+this is my repoisatory to chech that GitHub actions run and test  cases run 
+https://github.com/7oda-dev/task6/actions
+my name :Mahmoud Mohamed abdelgelil
+Id:221001313
+Abderhman ehab rahal
+Id:221001443
